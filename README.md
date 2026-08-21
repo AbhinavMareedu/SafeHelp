@@ -55,7 +55,7 @@ Many people in crisis, especially youth, don’t know where to go for help. Reso
 
 ## Live Website
 
-> [https://safehelp.netlify.app](safehelp.netlify.app)  
+> safehelp.netlify.app  
 > _
 
 ---
