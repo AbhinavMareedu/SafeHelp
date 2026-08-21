@@ -53,11 +53,6 @@ Many people in crisis, especially youth, don’t know where to go for help. Reso
 |**Google Analytics**| Trackable data                               |
 ---
 
-## Live Website
-
-> [safehelp.netlify.app](safehelp.netlify.app)
-> _
-
 ---
 
 ## Submit a New Resource
