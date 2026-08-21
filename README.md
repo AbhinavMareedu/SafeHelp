@@ -80,7 +80,7 @@ Want to add a new city or resource? Awesome! This is a shared open source projec
 
  Please **do not deploy your own version**. Help us build and maintain one shared SafeHelp site for all of New England!
 
-Have questions? [Open an issue](https://github.com/abhimareedu/safehelp-ne/issues/new) or email us.
+Have questions? [Open an issue](https://github.com/AbhinavMareedu/safehelp-ne/issues/new) or email us.
 
 ---
 
