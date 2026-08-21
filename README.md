@@ -68,7 +68,7 @@ All submissions are reviewed before going live.
 
 ## Contribute to SafeHelp
 
-Want to add a new city or resource? Awesome! This is a shared open source project, and we'd love your help — but we maintain a **single official version** at [safehelp.netlify.app](https://ssafehelp.netlify.app).
+Want to add a new city or resource? Awesome! This is a shared open source project, and we'd love your help — but we maintain a **single official version** at [safehelp.netlify.app](https://safehelp.netlify.app).
 
 ### 🛠 Ways to Contribute
 
