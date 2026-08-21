@@ -10,7 +10,7 @@ Originally launched for Nashua, NH, SafeHelp now supports **multi-city resource 
 
 ## Purpose
 
-Many people in crisis — especially youth — don’t know where to go for help. Resources are scattered, outdated, or not user-friendly. SafeHelp New England solves this by:
+Many people in crisis, especially youth, don’t know where to go for help. Resources are scattered, outdated, or not user-friendly. SafeHelp New England solves this by:
 
 - Centralizing trusted, free support services in one clean interface
 - Displaying all locations on an interactive map
@@ -55,8 +55,8 @@ Many people in crisis — especially youth — don’t know where to go for help
 
 ## Live Website
 
-> [https://safehelpne.netlify.app](https://safehelpne.netlify.app)  
-> _(Replace with your custom domain if using one)_
+> [https://safehelp.netlify.app](safehelp.netlify.app)  
+> _
 
 ---
 
@@ -73,7 +73,7 @@ All submissions are reviewed before going live.
 
 ## Contribute to SafeHelp
 
-Want to add a new city or resource? Awesome! This is a shared open source project, and we'd love your help — but we maintain a **single official version** at [safehelpne.netlify.app](https://safehelpne.netlify.app).
+Want to add a new city or resource? Awesome! This is a shared open source project, and we'd love your help — but we maintain a **single official version** at [safehelp.netlify.app](https://ssafehelp.netlify.app).
 
 ### 🛠 Ways to Contribute
 
@@ -85,7 +85,7 @@ Want to add a new city or resource? Awesome! This is a shared open source projec
 
  Please **do not deploy your own version**. Help us build and maintain one shared SafeHelp site for all of New England!
 
-Have questions? [Open an issue](https://github.com/abhi123456781/safehelp-ne/issues/new) or email us.
+Have questions? [Open an issue](https://github.com/abhimareedu/safehelp-ne/issues/new) or email us.
 
 ---
 
